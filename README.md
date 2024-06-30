@@ -1,6 +1,8 @@
 # plsRglm
 Partial Least Squares Regression for Generalized Linear Models Use plsRglm With R Software
 
+https://www.youtube.com/watch?v=zvsTy6oQO0s
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
